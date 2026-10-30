@@ -1,4 +1,4 @@
-param(
+﻿param(
     [Parameter(Mandatory = $true, HelpMessage = "Папка, например thm\pre-security")]
     [string]$Area,
 

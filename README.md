@@ -49,10 +49,12 @@ _Обновлено: 2026-10-30_
 ### Вариант А — скриптом (30 секунд)
 
 ```powershell
-.\scripts\new-writeup.ps1 -Area thm\pre-security -Name "Offensive Security Intro"
+.\new-writeup.cmd -Area thm\pre-security -Name "Offensive Security Intro"
 ```
 
 Создаст файл `thm/pre-security/2026-10-30-offensive-security-intro.md` из шаблона, с уже подставленной датой и названием. Дальше просто заполняешь.
+
+> `.cmd`-обёртка нужна, потому что Windows по умолчанию блокирует `.ps1`-скрипты. Она обходит это только для себя и ничего не меняет в системе.
 
 ### Вариант Б — руками
 
