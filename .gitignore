@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Временные файлы
+*.tmp
+*.log
+*.bak
+
+# Личное / секреты — никогда не коммитить
+.env
+*.key
+*.pem
+secrets/
