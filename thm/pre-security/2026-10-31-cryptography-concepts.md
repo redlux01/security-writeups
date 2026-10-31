@@ -1,6 +1,6 @@
 # Cryptography Concepts
 
-> **Платформа:** TryHackMe · **Путь:** thm/cyber-security-101 · **Сложность:** Easy · **Дата:** 2026-10-31
+> **Платформа:** TryHackMe · **Путь:** thm/pre-security · **Модуль:** Attack and Defenses · **Сложность:** Easy · **Дата:** 2026-10-31
 
 ## TL;DR
 
