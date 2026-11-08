@@ -1,6 +1,6 @@
 # Windows Command Line
 
-> **Платформа:** TryHackMe · **Путь:** thm/cyber-security-101 · **Модуль:** Windows Fundamentals · **Сложность:** Easy · **Дата:** 2026-11-08
+> **Платформа:** TryHackMe · **Путь:** thm/cyber-security-101 · **Модуль:** Command Line · **Сложность:** Easy · **Дата:** 2026-11-08
 
 ## TL;DR
 
