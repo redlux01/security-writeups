@@ -143,10 +143,10 @@ thm/
 <details>
 <summary><b>Первый месяц — развернуть</b></summary>
 
-- [ ] Создать репозиторий и закоммитить первый райтап
-- [ ] Поднять домашнюю лабу: VirtualBox + Kali + Metasploitable
-- [ ] Настроить Obsidian для заметок
-- [ ] Пройти путь **Pre Security** на TryHackMe
+- [x] Создать репозиторий и закоммитить первый райтап
+- [x] Поднять домашнюю лабу: VirtualBox + Kali + Metasploitable
+- [x] Настроить Obsidian для заметок
+- [x] Пройти путь **Pre Security** на TryHackMe
 - [ ] Первая задача на picoCTF
 - [ ] Первый тест «объясни без заметок» на камеру
 
